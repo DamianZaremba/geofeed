@@ -7,3 +7,6 @@
 212.2.240.0/21,US,US-NJ,Secaucus,
 45.157.3.0/24,GB,GB-ENG,Exmouth,
 185.136.232.0/22,GB,GB-ENG,Swindon,
+2a10:c882::/32,DE,DE-HE,Frankfurt,
+2a10:c881::/32,GB,GB-ENG,London,
+2a10:c880::/32,US,US-NJ,Secaucus,
